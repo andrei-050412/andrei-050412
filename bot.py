@@ -8,5 +8,6 @@
 andrei-050412/andrei-050412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+sudo apt-get install python python-pip install pytelegrambotapi
 ( TOKEN )
 1990265307:AAGToEDTdBx1UFV-Dg4uTV6_VCMTL6Kydk0
