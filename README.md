@@ -26,3 +26,5 @@
   ]
  }
 }
+1990265307:AAF2bzLISdacjl9cClzO8UvHxU160ESHncw
+/start@orangedeveloperbot
