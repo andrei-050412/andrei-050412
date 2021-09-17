@@ -34,6 +34,7 @@
    }
   ]
  }
-}
-/token 1990265307:AAF2bzLISdacjl9cClzO8UvHxU160ESHncw
+/token 1970434624:AAF41YdpR5NC8qx_tcFbqZ2dkVA3I_5sjkU
 /start @orangemashabot
+Привет я Андрей
+/otvet Привет меня зовут Маша я дружелюбный голосовой помощник 
